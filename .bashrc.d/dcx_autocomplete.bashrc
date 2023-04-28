@@ -1,4 +1,3 @@
-# Copyright Miha Stemberger 2023
 # Provides container name completions for `docker exec -it ${container} /bin/bash
 _dc_name_completions() {
 
